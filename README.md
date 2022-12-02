@@ -12,6 +12,6 @@ En este repositorio se encuentran los archivos necesarios para hacer un recomend
 
 ## Modo de Ejecución
 
-1- Instalar el requirements.txt
-2- Ejecutar el programa
-3- Al ejecutarlo te solicitará que introduzcas el artista que te gustaría escuchar. En función de tu elección, te mostrará una serie de canciones de dicho artista. Si no se encuentra dicho artista, el recomendador te mostrará un aviso. Si quieres probar con otro artista deberás volver a ejecutar el programa.
+1. Instalar el requirements.txt
+2. Ejecutar el programa
+3. Al ejecutarlo te solicitará que introduzcas el artista que te gustaría escuchar. En función de tu elección, te mostrará una serie de canciones de dicho artista. Si no se encuentra dicho artista, el recomendador te mostrará un aviso. Si quieres probar con otro artista deberás volver a ejecutar el programa.
